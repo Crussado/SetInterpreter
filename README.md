@@ -1,5 +1,5 @@
 # SetInterpreter
-An interactive ensemble interpreter. Made in C using hash table and interval trees.
+An interactive set interpreter. Made in C using hash table and interval trees.
 # Compile and Execute
 - make
 - Execute 'programa'.
