@@ -13,5 +13,7 @@ Can operate sets with:
 - Intersection: `alias_{1} = alias_{2} & alias_{3}`
 - Subtraction: `alias_{1} = alias_{2} - alias_{3}`
 - Complement: `alias_{1} = ~alias_{2}`
+
 Print sets with: `imprimir alias`
+
 Exit: `salir`
